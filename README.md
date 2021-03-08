@@ -31,7 +31,7 @@
 ![](https://anmodi.000webhostapp.com/github/avanzada_visual.PNG)
 
 - tiene dos idiomas; ingles y español
--
+
 ![](https://anmodi.000webhostapp.com/github/idioma.PNG)
 
 - necesitas .net framework para que la aplicacion funcione
